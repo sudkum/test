@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>Gopura_and_prakara_of_Sri_Ranganathaswamy_temple_on_the_island_of_Srirangapatna_near_Mysore_in_India</filename>
+  <path>C:\Users\sudkum\OneDrive - Microsoft\data_scrapping\GOPURAM\mimages\Gopura_and_prakara_of_Sri_Ranganathaswamy_temple_on_the_island_of_Srirangapatna_near_Mysore_in_India.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>gopura</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>33</xmin>
+      <ymin>72</ymin>
+      <xmax>198</xmax>
+      <ymax>216</ymax>
+    </bndbox>
+  </object>
+</annotation>

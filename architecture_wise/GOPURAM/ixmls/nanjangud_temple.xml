@@ -1,0 +1,38 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>nanjangud_temple</filename>
+  <path>C:\Users\sudkum\OneDrive - Microsoft\data_scrapping\GOPURAM\mimages\nanjangud_temple.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>gopura</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>26</xmin>
+      <ymin>17</ymin>
+      <xmax>344</xmax>
+      <ymax>222</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>mandapa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>135</xmin>
+      <ymin>226</ymin>
+      <xmax>398</xmax>
+      <ymax>294</ymax>
+    </bndbox>
+  </object>
+</annotation>

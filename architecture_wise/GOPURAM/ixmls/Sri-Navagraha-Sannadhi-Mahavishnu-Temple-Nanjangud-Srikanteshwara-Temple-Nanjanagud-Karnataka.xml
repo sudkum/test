@@ -1,0 +1,38 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>Sri-Navagraha-Sannadhi-Mahavishnu-Temple-Nanjangud-Srikanteshwara-Temple-Nanjanagud-Karnataka</filename>
+  <path>C:\Users\sudkum\OneDrive - Microsoft\data_scrapping\GOPURAM\mimages\Sri-Navagraha-Sannadhi-Mahavishnu-Temple-Nanjangud-Srikanteshwara-Temple-Nanjanagud-Karnataka.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>gopura</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>203</xmin>
+      <ymin>53</ymin>
+      <xmax>295</xmax>
+      <ymax>185</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>gopura</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>139</xmin>
+      <ymin>80</ymin>
+      <xmax>218</xmax>
+      <ymax>209</ymax>
+    </bndbox>
+  </object>
+</annotation>

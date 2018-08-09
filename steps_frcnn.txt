@@ -1,0 +1,30 @@
+source tensorflow1/bin/activate
+set PYTHONPATH=C:\tensorflow1\models
+set PYTHONPATH=C:\tensorflow1\models\research
+set PYTHONPATH=C:\tensorflow1\models\research\slim
+
+#https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md
+#to change to coco api installation
+
+cd tensorflow1/models/research/
+protoc object_detection/protos/*.proto --python_out=.
+export PYTHONPATH=$PYTHONPATH:`pwd`:`pwd`/slim
+
+#testing installation
+python object_detection/builders/model_builder_test.py
+
+#few steps with data handling
+#https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
+
+
+#training
+python legacy/train.py --logtostderr --train_dir=training/ --pipeline_config_path=training/faster_rcnn_inception_v2_pets.config
+
+#inference_graph
+python export_inference_graph.py --input_type image_tensor --pipeline_config_path training/faster_rcnn_inception_v2_pets.config --trained_checkpoint_prefix training/model.ckpt-XXXX --output_directory inference_graph
+
+
+
+
+
+244		

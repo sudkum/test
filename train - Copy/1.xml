@@ -1,0 +1,38 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>1</filename>
+  <path>C:\Users\sudkum\OneDrive - Microsoft\data_scrapping\MANDAPA\mimages\1.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>mandapa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>27</xmin>
+      <ymin>179</ymin>
+      <xmax>120</xmax>
+      <ymax>252</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>gopuram</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>172</xmin>
+      <ymin>46</ymin>
+      <xmax>336</xmax>
+      <ymax>204</ymax>
+    </bndbox>
+  </object>
+</annotation>

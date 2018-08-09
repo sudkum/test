@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>The-Mukteshwar-Temple</filename>
+  <path>C:\Users\sudkum\OneDrive - Microsoft\data_scrapping\AMALAKA\mimages\The-Mukteshwar-Temple.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>torana</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>65</xmin>
+      <ymin>69</ymin>
+      <xmax>357</xmax>
+      <ymax>266</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>970px-Jain_Narayana_temple_at_Pattadakal</filename>
+  <path>C:\Users\sudkum\OneDrive - Microsoft\data_scrapping\MANDAPA\mimages\970px-Jain_Narayana_temple_at_Pattadakal.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>mandapa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>199</xmin>
+      <ymin>132</ymin>
+      <xmax>390</xmax>
+      <ymax>219</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>gopuram</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>23</xmin>
+      <ymin>96</ymin>
+      <xmax>120</xmax>
+      <ymax>166</ymax>
+    </bndbox>
+  </object>
+</annotation>

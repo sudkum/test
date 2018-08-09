@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>Thirukovilur-ulagalantha-temple-1591230</filename>
+  <path>C:\Users\sudkum\OneDrive - Microsoft\data_scrapping\GOPURAM\mimages\Thirukovilur-ulagalantha-temple-1591230.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>gopura</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>59</xmin>
+      <ymin>48</ymin>
+      <xmax>195</xmax>
+      <ymax>189</ymax>
+    </bndbox>
+  </object>
+</annotation>

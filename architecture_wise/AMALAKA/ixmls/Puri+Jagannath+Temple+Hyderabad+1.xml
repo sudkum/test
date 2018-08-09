@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>Puri+Jagannath+Temple+Hyderabad+1</filename>
+  <path>C:\Users\sudkum\OneDrive - Microsoft\data_scrapping\AMALAKA\mimages\Puri+Jagannath+Temple+Hyderabad+1.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>gopuram</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>14</xmin>
+      <ymin>9</ymin>
+      <xmax>118</xmax>
+      <ymax>161</ymax>
+    </bndbox>
+  </object>
+</annotation>

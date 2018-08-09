@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>Nainativu_Rajaraja_Gopuram.jpg</filename>
+  <path>/home/sudkum/tensorflow1/models/research/object_detection/images/train/Nainativu_Rajaraja_Gopuram.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>gopura</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>52</xmin>
+      <ymin>16</ymin>
+      <xmax>347</xmax>
+      <ymax>201</ymax>
+    </bndbox>
+  </object>
+</annotation>

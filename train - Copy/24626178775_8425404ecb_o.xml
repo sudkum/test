@@ -1,0 +1,38 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>24626178775_8425404ecb_o</filename>
+  <path>C:\Users\sudkum\OneDrive - Microsoft\data_scrapping\MANDAPA\mimages\24626178775_8425404ecb_o.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>mandapa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>105</xmin>
+      <ymin>119</ymin>
+      <xmax>218</xmax>
+      <ymax>187</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>mandapa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>225</xmin>
+      <ymin>120</ymin>
+      <xmax>318</xmax>
+      <ymax>180</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>Shree-Jagannath-Temple-Puri</filename>
+  <path>C:\Users\sudkum\OneDrive - Microsoft\data_scrapping\AMALAKA\mimages\Shree-Jagannath-Temple-Puri.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>amalaka</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>94</xmin>
+      <ymin>50</ymin>
+      <xmax>170</xmax>
+      <ymax>72</ymax>
+    </bndbox>
+  </object>
+</annotation>

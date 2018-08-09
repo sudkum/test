@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>nl7w9u.jpg</filename>
+  <path>/home/sudkum/tensorflow1/models/research/object_detection/images/train/nl7w9u.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>gopura</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>64</xmin>
+      <ymin>31</ymin>
+      <xmax>381</xmax>
+      <ymax>240</ymax>
+    </bndbox>
+  </object>
+</annotation>

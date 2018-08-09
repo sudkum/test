@@ -1,0 +1,38 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>1200px-Sri_Ranganathaswamy_Temple_dedicated_to_Vishnu_in_Srirangam_near_Tiruchirappali_24_37254366620</filename>
+  <path>C:\Users\sudkum\OneDrive - Microsoft\data_scrapping\GOPURAM\mimages\1200px-Sri_Ranganathaswamy_Temple_dedicated_to_Vishnu_in_Srirangam_near_Tiruchirappali_24_37254366620.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>gopura</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>62</xmin>
+      <ymin>49</ymin>
+      <xmax>279</xmax>
+      <ymax>259</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>gopura</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>294</xmin>
+      <ymin>102</ymin>
+      <xmax>393</xmax>
+      <ymax>214</ymax>
+    </bndbox>
+  </object>
+</annotation>

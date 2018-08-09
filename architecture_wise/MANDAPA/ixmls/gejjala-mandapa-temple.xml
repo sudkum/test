@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>gejjala-mandapa-temple</filename>
+  <path>C:\Users\sudkum\OneDrive - Microsoft\data_scrapping\MANDAPA\mimages\gejjala-mandapa-temple.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>mandapa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>10</xmin>
+      <ymin>21</ymin>
+      <xmax>382</xmax>
+      <ymax>216</ymax>
+    </bndbox>
+  </object>
+</annotation>

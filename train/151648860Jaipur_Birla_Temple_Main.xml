@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>151648860Jaipur_Birla_Temple_Main.jpg</filename>
+  <path>/home/sudkum/tensorflow1/models/research/object_detection/images/train/151648860Jaipur_Birla_Temple_Main.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>torana</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>42</xmin>
+      <ymin>105</ymin>
+      <xmax>152</xmax>
+      <ymax>254</ymax>
+    </bndbox>
+  </object>
+</annotation>

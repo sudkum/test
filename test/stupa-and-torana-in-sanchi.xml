@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>stupa-and-torana-in-sanchi.jpg</filename>
+  <path>/home/sudkum/tensorflow1/models/research/object_detection/images/test/stupa-and-torana-in-sanchi.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>torana</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>39</xmin>
+      <ymin>5</ymin>
+      <xmax>365</xmax>
+      <ymax>268</ymax>
+    </bndbox>
+  </object>
+</annotation>

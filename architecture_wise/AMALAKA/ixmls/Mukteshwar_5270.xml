@@ -1,0 +1,38 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>Mukteshwar_5270</filename>
+  <path>C:\Users\sudkum\OneDrive - Microsoft\data_scrapping\AMALAKA\mimages\Mukteshwar_5270.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>torana</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>206</xmin>
+      <ymin>84</ymin>
+      <xmax>392</xmax>
+      <ymax>243</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>amalaka</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>40</xmin>
+      <ymin>68</ymin>
+      <xmax>135</xmax>
+      <ymax>99</ymax>
+    </bndbox>
+  </object>
+</annotation>

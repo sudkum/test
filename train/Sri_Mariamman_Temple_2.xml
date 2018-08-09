@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>Sri_Mariamman_Temple_2.JPG</filename>
+  <path>/home/sudkum/tensorflow1/models/research/object_detection/images/train/Sri_Mariamman_Temple_2.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>gopura</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>50</xmin>
+      <ymin>60</ymin>
+      <xmax>389</xmax>
+      <ymax>260</ymax>
+    </bndbox>
+  </object>
+</annotation>

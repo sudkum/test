@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>muktesvara-temple-gateway-torana-in-front-of-the-temple-view-from-b8kckg.jpg</filename>
+  <path>/home/sudkum/tensorflow1/models/research/object_detection/images/train/muktesvara-temple-gateway-torana-in-front-of-the-temple-view-from-b8kckg.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>torana</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>19</xmin>
+      <ymin>17</ymin>
+      <xmax>387</xmax>
+      <ymax>281</ymax>
+    </bndbox>
+  </object>
+</annotation>

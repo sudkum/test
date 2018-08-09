@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>399px-Sanchi_8-14</filename>
+  <path>C:\Users\sudkum\OneDrive - Microsoft\data_scrapping\TORANA\mimages\399px-Sanchi_8-14.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>torana</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>12</xmin>
+      <ymin>20</ymin>
+      <xmax>379</xmax>
+      <ymax>261</ymax>
+    </bndbox>
+  </object>
+</annotation>

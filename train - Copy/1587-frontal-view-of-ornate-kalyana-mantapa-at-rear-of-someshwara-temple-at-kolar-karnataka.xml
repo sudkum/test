@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>1587-frontal-view-of-ornate-kalyana-mantapa-at-rear-of-someshwara-temple-at-kolar-karnataka</filename>
+  <path>C:\Users\sudkum\OneDrive - Microsoft\data_scrapping\MANDAPA\mimages\1587-frontal-view-of-ornate-kalyana-mantapa-at-rear-of-someshwara-temple-at-kolar-karnataka.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>mandapa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>16</xmin>
+      <ymin>27</ymin>
+      <xmax>392</xmax>
+      <ymax>235</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>280-ulagalantha-perumal-temple-in-tamil-nadu-1.jpg</filename>
+  <path>/home/sudkum/tensorflow1/models/research/object_detection/images/train/280-ulagalantha-perumal-temple-in-tamil-nadu-1.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>gopura</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>104</xmin>
+      <ymin>16</ymin>
+      <xmax>271</xmax>
+      <ymax>131</ymax>
+    </bndbox>
+  </object>
+</annotation>

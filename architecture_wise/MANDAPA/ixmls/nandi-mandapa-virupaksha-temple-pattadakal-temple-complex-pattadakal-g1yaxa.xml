@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>nandi-mandapa-virupaksha-temple-pattadakal-temple-complex-pattadakal-g1yaxa</filename>
+  <path>C:\Users\sudkum\OneDrive - Microsoft\data_scrapping\MANDAPA\mimages\nandi-mandapa-virupaksha-temple-pattadakal-temple-complex-pattadakal-g1yaxa.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>mandapa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>37</xmin>
+      <ymin>41</ymin>
+      <xmax>332</xmax>
+      <ymax>200</ymax>
+    </bndbox>
+  </object>
+</annotation>

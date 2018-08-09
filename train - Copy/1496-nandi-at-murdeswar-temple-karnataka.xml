@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>1496-nandi-at-murdeswar-temple-karnataka</filename>
+  <path>C:\Users\sudkum\OneDrive - Microsoft\data_scrapping\MANDAPA\mimages\1496-nandi-at-murdeswar-temple-karnataka.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>gopura</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>235</xmin>
+      <ymin>34</ymin>
+      <xmax>366</xmax>
+      <ymax>261</ymax>
+    </bndbox>
+  </object>
+</annotation>

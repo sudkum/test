@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>mallikarjuna-temple-pattadakal_13329352061.jpg</filename>
+  <path>/home/sudkum/tensorflow1/models/research/object_detection/images/train/mallikarjuna-temple-pattadakal_13329352061.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>mandapa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>136</xmin>
+      <ymin>58</ymin>
+      <xmax>360</xmax>
+      <ymax>178</ymax>
+    </bndbox>
+  </object>
+</annotation>

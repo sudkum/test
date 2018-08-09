@@ -1,0 +1,38 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>ranga ranga gopuram.jpg</filename>
+  <path>/home/sudkum/tensorflow1/models/research/object_detection/images/train/ranga ranga gopuram.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>gopura</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>122</xmin>
+      <ymin>12</ymin>
+      <xmax>332</xmax>
+      <ymax>124</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>mandapa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>77</xmin>
+      <ymin>102</ymin>
+      <xmax>314</xmax>
+      <ymax>281</ymax>
+    </bndbox>
+  </object>
+</annotation>

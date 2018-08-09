@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>torana-or-arched-gateway-muktesvara-deula-10th-century-hindu-temple-dncwed</filename>
+  <path>C:\Users\sudkum\OneDrive - Microsoft\data_scrapping\TORANA\mimages\torana-or-arched-gateway-muktesvara-deula-10th-century-hindu-temple-dncwed.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>torana</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>106</xmin>
+      <ymin>7</ymin>
+      <xmax>296</xmax>
+      <ymax>217</ymax>
+    </bndbox>
+  </object>
+</annotation>

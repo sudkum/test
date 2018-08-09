@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>Vitthal Temple 3.JPG</filename>
+  <path>/home/sudkum/tensorflow1/models/research/object_detection/images/test/Vitthal Temple 3.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>mandapa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>27</xmin>
+      <ymin>107</ymin>
+      <xmax>306</xmax>
+      <ymax>228</ymax>
+    </bndbox>
+  </object>
+</annotation>

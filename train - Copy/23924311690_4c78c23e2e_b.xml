@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>23924311690_4c78c23e2e_b</filename>
+  <path>C:\Users\sudkum\OneDrive - Microsoft\data_scrapping\GOPURAM\mimages\23924311690_4c78c23e2e_b.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>gopura</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>93</xmin>
+      <ymin>15</ymin>
+      <xmax>288</xmax>
+      <ymax>182</ymax>
+    </bndbox>
+  </object>
+</annotation>

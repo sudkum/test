@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>IMG_0959</filename>
+  <path>C:\Users\sudkum\OneDrive - Microsoft\data_scrapping\GOPURAM\mimages\IMG_0959.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>gopura</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>138</xmin>
+      <ymin>14</ymin>
+      <xmax>304</xmax>
+      <ymax>169</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>Chaudayyadanapura_Mukteshwara_temple_11_20170424182548</filename>
+  <path>C:\Users\sudkum\OneDrive - Microsoft\data_scrapping\AMALAKA\mimages\Chaudayyadanapura_Mukteshwara_temple_11_20170424182548.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>mandapa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>234</xmin>
+      <ymin>186</ymin>
+      <xmax>377</xmax>
+      <ymax>266</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>10407824_907506499316304_3766191015441197155_n.jpg</filename>
+  <path>/home/sudkum/tensorflow1/models/research/object_detection/images/train/10407824_907506499316304_3766191015441197155_n.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>gopura</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>123</xmin>
+      <ymin>54</ymin>
+      <xmax>266</xmax>
+      <ymax>220</ymax>
+    </bndbox>
+  </object>
+</annotation>

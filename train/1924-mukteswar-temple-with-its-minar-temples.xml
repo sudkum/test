@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>1924-mukteswar-temple-with-its-minar-temples.jpg</filename>
+  <path>/home/sudkum/tensorflow1/models/research/object_detection/images/train/1924-mukteswar-temple-with-its-minar-temples.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>torana</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>149</xmin>
+      <ymin>150</ymin>
+      <xmax>237</xmax>
+      <ymax>275</ymax>
+    </bndbox>
+  </object>
+</annotation>

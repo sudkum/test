@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>in09_102911332_j_fc_s.jpg</filename>
+  <path>/home/sudkum/tensorflow1/models/research/object_detection/images/train/in09_102911332_j_fc_s.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>mandapa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>10</xmin>
+      <ymin>57</ymin>
+      <xmax>163</xmax>
+      <ymax>194</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>Hyderabad_Jagannath_Temple+(20)</filename>
+  <path>C:\Users\sudkum\OneDrive - Microsoft\data_scrapping\AMALAKA\mimages\Hyderabad_Jagannath_Temple+(20).JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>amalaka</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>149</xmin>
+      <ymin>69</ymin>
+      <xmax>222</xmax>
+      <ymax>90</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>mandapa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>126</xmin>
+      <ymin>166</ymin>
+      <xmax>268</xmax>
+      <ymax>258</ymax>
+    </bndbox>
+  </object>
+</annotation>

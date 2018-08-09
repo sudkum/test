@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>india-orissa-bhubaneswar-mukteswar-temple-courtyard-and-torana-b0c3gn.jpg</filename>
+  <path>/home/sudkum/tensorflow1/models/research/object_detection/images/train/india-orissa-bhubaneswar-mukteswar-temple-courtyard-and-torana-b0c3gn.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>torana</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>33</xmin>
+      <ymin>47</ymin>
+      <xmax>202</xmax>
+      <ymax>177</ymax>
+    </bndbox>
+  </object>
+</annotation>

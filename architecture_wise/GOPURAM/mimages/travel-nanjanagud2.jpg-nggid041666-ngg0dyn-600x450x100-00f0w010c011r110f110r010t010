@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>travel-nanjanagud2.jpg-nggid041666-ngg0dyn-600x450x100-00f0w010c011r110f110r010t010</filename>
+  <path>C:\Users\sudkum\OneDrive - Microsoft\data_scrapping\GOPURAM\mimages\travel-nanjanagud2.jpg-nggid041666-ngg0dyn-600x450x100-00f0w010c011r110f110r010t010.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>gopura</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>175</xmin>
+      <ymin>91</ymin>
+      <xmax>305</xmax>
+      <ymax>262</ymax>
+    </bndbox>
+  </object>
+</annotation>

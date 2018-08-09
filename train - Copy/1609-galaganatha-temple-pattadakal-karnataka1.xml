@@ -1,0 +1,38 @@
+<annotation>
+  <folder>mimages</folder>
+  <filename>1609-galaganatha-temple-pattadakal-karnataka1</filename>
+  <path>C:\Users\sudkum\OneDrive - Microsoft\data_scrapping\AMALAKA\mimages\1609-galaganatha-temple-pattadakal-karnataka1.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>amalaka</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>234</xmin>
+      <ymin>48</ymin>
+      <xmax>306</xmax>
+      <ymax>95</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>gopuram</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>213</xmin>
+      <ymin>74</ymin>
+      <xmax>340</xmax>
+      <ymax>201</ymax>
+    </bndbox>
+  </object>
+</annotation>
