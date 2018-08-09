@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup,CData
 import urllib
 import sys
 
-
+#script to download urls from pbxml file
 #site = 'http://pixabay.com'
 basesite = 'https://www.bing.com/images/search?q=sanchi+temple+TORANA&qs=n&form=QBIR&sp=-1&pq=sanchi+temple+torana&sc=0-20&sk=&cvid=8A61FBCC1DAB4350BAC4B08D82877E77'
 site= basesite + '&format=PBXML'
